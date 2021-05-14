@@ -1,12 +1,34 @@
 ---
-layout: main-long.njk
+layout: layouts/main.njk
 title: Aktuality
 ---
-{%for prispevek in collections.aktuality | reverse %}
+{% include 'partials/header-image.njk' %}
 
-  <h2>{{ prispevek.data.title}}</h2>
-  <p>{{ prispevek.data.date }}</p>
-  <p>{{ prispevek.data.perex }}</p>
-  <p><a href="{{ prispevek.url }}">celý článek</a></p>
+<main class="main">
+  <div class="wrapper__inner">
+    <!-- sekce Aktuality -->
+    <div class="two-third">
 
-{% endfor %}
+      {% include 'layouts/clanky.njk' %}
+
+    </div>
+
+    <div class="one-third">
+      <!-- sekce Přehled článků -->
+      <section class="news__articles">
+        <h1>PŘEHLED ČLÁNKŮ</h1>
+        <div class="news__articles--overview">
+          {%for prispevek in collections.aktuality | reverse %}
+          
+            <h2>{{ prispevek.data.title}}</h2>
+            <p>{{ prispevek.data.date }}</p>
+            <p>{{ prispevek.data.perex }}</p>
+            <p><a href="{{ prispevek.url }}">celý článek</a></p>
+
+          {% endfor %}
+        </div>
+      </section>
+      <!--konec-->
+    </div>
+  </div>
+</main>

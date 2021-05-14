@@ -8,9 +8,9 @@ image2: article_image2.jpg
 image3: article_image3.jpg
 image4: article_image4.jpeg
 alt1: Potraviny nevhodné pro psy
-alt1: Potraviny nevhodné pro psy - čokoláda
-alt1: Potraviny nevhodné pro psy - káva
-alt1: Potraviny nevhodné pro psy - hroznové víno
+alt2: Potraviny nevhodné pro psy - čokoláda
+alt3: Potraviny nevhodné pro psy - káva
+alt4: Potraviny nevhodné pro psy - hroznové víno
 tags:
 - homepage
 - aktuality  

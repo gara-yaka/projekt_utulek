@@ -1,7 +1,6 @@
 {
   "name": "projekt_utulek",
   "version": "1.0.0",
-  "description": "",
   "main": "fslightbox.js",
   "scripts": {
     "build": "npx @11ty/eleventy",
@@ -12,5 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gara-yaka/projekt_utulek.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gara-yaka/projekt_utulek/issues"
+  },
+  "homepage": "https://github.com/gara-yaka/projekt_utulek#readme",
+  "description": ""
 }
