@@ -1,5 +1,5 @@
 ---
-layout: clanky.njk
+layout: layouts/clanky.njk
 title: Fík se zotavuje po operaci
 date: 2020-01-08T10:47
 perex: Slepé ztrácel vyhynulý řádu vznikem tutanchamónovy bojují dveří se ji vysvětlit. Silné tito přehazoval mi dvojice s gamy tkví kotel.

@@ -1,5 +1,5 @@
 ---
-layout: clanky.njk
+layout: layouts/clanky.njk
 title: Jak postupovat po adopci
 date: 2021-02-14T13:26
 perex: Kampaň ne nechci silnější, a žije svátků u šířily tkáň extrémní oáze, důležití, lidové z problém vlajících, strojem článku sen fond.

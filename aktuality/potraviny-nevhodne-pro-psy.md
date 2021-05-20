@@ -1,5 +1,5 @@
 ---
-layout: clanky.njk
+layout: layouts/clanky.njk
 title: Potraviny nevhodné pro psy
 date: 2021-05-05T19:16
 perex: Letošní používat samotných dodal pozitivním o doprovázet plavou, ně komentovat nebyla, s nikoho síly spuštění chce.

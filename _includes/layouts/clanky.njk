@@ -1,12 +1,9 @@
----
-layout: layouts/main.njk
----
     <!-- Detail článku + fotografie-->
     <section class="news">
         <h1>AKTUALITY</h1>
         <div class="article">
             <h2 class="article__title">{{title}}</h2>
-            <p class="article__meta"> Publikováno: {{ page.date.toLocalString('cs-CZ') }}</p>
+            <p class="article__meta"> Publikováno: {{ page.date.toLocaleString('cs-CZ') }}</p>
             <div class="article__content">
                 <div class="article__text">
                     <p class="article__perex">{{ perex }}</p>

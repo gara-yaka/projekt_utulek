@@ -266,6 +266,10 @@ O NÁS
 }
 
 /* Sponsors*/
+.about__sponsors {
+  text-align: center;
+}
+
 .sponsor__logo {
   width: 65%;
   margin-top: 20px;

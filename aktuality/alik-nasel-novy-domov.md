@@ -1,5 +1,5 @@
 ---
-layout: clanky.njk
+layout: layouts/clanky.njk
 title: Alík našel nový domov
 date: 2021-03-31T08:30
 perex: Zúčastnilo že, by magma zjištění obcí živé mraky argumenty počítače jí geometrické.

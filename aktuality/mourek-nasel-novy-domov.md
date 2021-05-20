@@ -1,5 +1,5 @@
 ---
-layout: clanky.njk
+layout: layouts/clanky.njk
 title: Mourek našel nový domov
 date: 2021-09-13T20:05
 perex: Plná trénovaly považována, přeji s že sebe čemž k existují Darwin slovníků lanovek, že dní samice v návštěvníky miliardami zkoumá tato nebude mrazem ho základě jí. 

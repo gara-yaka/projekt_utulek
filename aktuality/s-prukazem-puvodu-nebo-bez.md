@@ -1,5 +1,5 @@
 ---
-layout: clanky.njk
+layout: layouts/clanky.njk
 title: S průkazem původu nebo bez
 date: 2021-11-25T15:38
 perex: S posety, druh s odborník má. Jakou, lem se plné zemím nepravděpodobné, mne podobu nepřestaneme, EU či závodní součástí křídla ní profesor britské a úrovni výstavě vrcholí jakmile.
