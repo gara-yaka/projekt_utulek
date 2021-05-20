@@ -63,10 +63,14 @@ section {
 .header__logo {
 	font-size: var(--f-h1);
 	font-weight: var(--f-weight);
-	color: var(--c-secondary);
 	margin-top: 10px;
 	margin-bottom: 10px;
 	padding-left: 13px;
+}
+
+.header__logo a {
+	text-decoration: none;
+	color: var(--c-secondary);
 }
 
 .menu__checkbox {
@@ -89,7 +93,7 @@ section {
 .menu__link {
 	display: block;
 	padding: 15px 15px;
-	font-size: 18px;
+	font-size: 20px;
 	font-weight: var(--f-weight);
 	text-decoration: none;
 	color: var(--c-accent);
@@ -111,6 +115,7 @@ HOMEPAGE
     background-position: center;
     background-size: cover;
 	border-radius: 0px 0px 20px 20px;
+	margin-bottom: 40px;
 }
 
 /*sekce HP about*/
